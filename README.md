@@ -5,8 +5,9 @@ Implement OLS via normal equations and compare to scikit-learn.
 ## ALGORITHM (Brief)
 
 Normal equation:
-
-\\[ \hat{\beta}=(X^TX)^{-1}X^Ty \\]
+\[
+\hat{\beta}=(X^TX)^{-1}X^Ty
+\]
 
 ## PROGRAM
 
