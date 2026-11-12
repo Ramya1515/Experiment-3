@@ -1,3 +1,7 @@
+# EXPERIMENT 3
+
+## Ordinary Least Squares (Closed-Form) Linear Regression
+
 ## AIM
 
 Implement OLS via normal equations and compare to scikit-learn.
